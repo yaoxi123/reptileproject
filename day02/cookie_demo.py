@@ -23,3 +23,4 @@ response = opener.open(req)
 for cookie in cookies:
     print(cookie.name)
     #print(cookie.value)
+    print(cookie.value)
