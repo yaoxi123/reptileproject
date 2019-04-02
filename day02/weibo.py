@@ -1,0 +1,2 @@
+
+cookie = http.cookiejar.CookieJar()
